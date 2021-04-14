@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+     
+}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    height: 100vh;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+}
+
